@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243438309119",
+    "firebase_url": "https://hasanqrq-default-rtdb.firebaseio.com",
+    "project_id": "hasanqrq",
+    "storage_bucket": "hasanqrq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243438309119:android:714d91799977a9d0c486ca",
+        "android_client_info": {
+          "package_name": "hasanqrq.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243438309119-rnu60bkjjh7mt8feugum0f2vph4aqcjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfasOsbCo-0Ol5Jo25vSmzu42h2__V4Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243438309119-rnu60bkjjh7mt8feugum0f2vph4aqcjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
